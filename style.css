@@ -1,0 +1,13 @@
+nav{
+    background-color: rgb(83, 75, 91)!important;
+}
+main {
+    
+  min-height: calc(100vh - 124px) !important;
+}
+p {
+    margin: 0 !important;
+}
+  button {
+      margin: 10px 0px 10px !important;
+}
