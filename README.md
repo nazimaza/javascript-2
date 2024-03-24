@@ -1,0 +1,1 @@
+Second Assignment of javascript
